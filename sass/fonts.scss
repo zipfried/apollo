@@ -29,3 +29,19 @@
   src: url("fonts/SpaceGrotesk/SpaceGrotesk-Bold.ttf"), local("ttf");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "Source Han Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/SourceHanSans/SourceHanSansSC-Regular"), local("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Han Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/SourceHanSans/SourceHanSansSC-Bold"), local("ttf");
+  font-display: swap;
+}
